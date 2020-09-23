@@ -3,7 +3,7 @@
 
 Author:Naman Kanwar
 ## Inspiration
-I am really interesyed into game development so this is the first platformer game that I made after making a self difficulty raising version of pong. This game shows the importance of nature in our life. As we (humans) are moving closer to a complete technology based society we are losing touch with nature.  
+I am really interested into game development so this is the first platformer game that I made after making a self difficulty raising version of pong. This game shows the importance of nature in our life. As we (humans) are moving closer to a complete technology based society we are losing touch with nature.  
 https://www.youtube.com/watch?v=cqSjnPcK4S0
 ## What it does
 The game portrays that as we are imporving technologically, we are destroying nature!
@@ -24,4 +24,4 @@ I learned a lot about C++ and Game Maker. I also learned about some methods of d
 I want to make the project more complex by adding more levels 
 
 ## Built With
-C++, Game Malker
+C++, Game Maker
